@@ -6,3 +6,7 @@
 </h1>
 
 <h3> Went from not knowing linux, git, github to programming in linux. I am happy what a month can accomplish with hard work. I hope to continue my journey</h3>
+
+<h1> Programming log 11/13/19 10:58 </h1>
+
+<h3> Plan on learning more html tonight. </h3>
