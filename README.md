@@ -1,6 +1,6 @@
 <html>
 
-<title> Programming log 11/12 11:59pm
+<title> Programming log 11/12 11:59pm </title>
 
 <h1> This is my journey to the programming world. 
 </h1>
