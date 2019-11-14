@@ -10,3 +10,7 @@
 <h1> Programming log 11/13/19 10:58 </h1>
 
 <h3> Plan on learning more html tonight. </h3>
+
+<h1> Programming log 11/14/19 11:20 </h1>
+
+<h3> Dabbed into java today. Okay so far. Will look forward to study it in the future. </h3>
