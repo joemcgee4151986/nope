@@ -14,3 +14,6 @@
 <h1> Programming log 11/14/19 11:20 </h1>
 
 <h3> Dabbed into java today. Okay so far. Will look forward to study it in the future. </h3>
+
+<h1> Programming log 11/17 10:48 </h1>
+<h1>Took Friday and Saturday off. So burned out. Started reading about Big O notation.</h3>
