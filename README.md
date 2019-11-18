@@ -17,3 +17,10 @@
 
 <h1> Programming log 11/17 10:48 </h1>
 <h1>Took Friday and Saturday off. So burned out. Started reading about Big O notation.</h3>
+
+<!DOCTYPE html>
+<html>
+    <body>
+        This is my first web page
+    </body>
+</html>
