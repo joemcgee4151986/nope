@@ -18,9 +18,17 @@
 <h1> Programming log 11/17 10:48 </h1>
 <h1>Took Friday and Saturday off. So burned out. Started reading about Big O notation.</h3>
 
+<<<<<<< HEAD
+=======
+This is my first web page
+>>>>>>> ac3fd79d184c8ac50268a9c8c10e1304f7b60d0f
 <!DOCTYPE html>
 <html>
     <body>
         This is my first web page
     </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> ac3fd79d184c8ac50268a9c8c10e1304f7b60d0f
