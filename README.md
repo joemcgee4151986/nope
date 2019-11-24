@@ -30,3 +30,8 @@ working with html tonight
 <h1> Programming log 11/21 11:59 </h1>
 
 <h3> started out slow because I've been tired</h3>
+
+<h1> Programming log 11/24 11:00 </h1>
+<h3> did some programming today. Burned out from work so I am not happy that I am progressing slowly</h3>
+
+
