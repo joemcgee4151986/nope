@@ -29,4 +29,4 @@ working with html tonight
 
 <h1> Programming log 11/21 11:59 </h1>
 
-<h3> started out slow because I've been tired
+<h3> started out slow because I've been tired</h3>
