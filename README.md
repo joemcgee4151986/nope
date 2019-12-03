@@ -35,4 +35,13 @@ working with html tonight
 <h3> did some programming today. Burned out from work so I am not happy that I am progressing slowly</h3>
 <h1> Programming log 11/25 11:02 </h1>
 <h3> working with tables. Searched how to display it correctly in the browser</h3>
+ <h1> Programming log 12/3 9:52 </h1>
 
+ <h3> Adding code to my webpage</h3>
+
+ 
+<!DOCTYPE html>
+
+<html>
+
+<head>
