@@ -37,7 +37,12 @@ working with html tonight
 <h3> working with tables. Searched how to display it correctly in the browser</h3>
  <h1> Programming log 12/3 9:52 </h1>
 
+
  <h3> Adding code to my webpage</h3>
+
+ <h1> Programming log 12/9 9:54</h1>
+
+ <h3> almost to advance lessons with html. I <em>am</em> happy :)</h3>
 
  
 <!DOCTYPE html>
