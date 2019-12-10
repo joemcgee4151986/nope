@@ -44,7 +44,13 @@ working with html tonight
 
  <h3> almost to advance lessons with html. I <em>am</em> happy :)</h3>
 
- 
+ <h1> Programming log 12/10 10:16</h1>
+
+<h3> Programmed today because</h3>
+    <ul>
+        <li> It is good to practice</li>
+        <li> Work for your future</li>
+        <li> Bored</li>
 <!DOCTYPE html>
 
 <html>
