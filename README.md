@@ -65,6 +65,8 @@ working with html tonight
     <h1> Programming log 12/18 10:14pm
     <a href="http://www.reddit.com" target="_blank"> Website where I go to</a>
 
+    <h1> Programming log 12/20 11:08pm
+    <h2> Gonna start making my own google page tomorrow.</h2>
 
 
 </html>
