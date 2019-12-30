@@ -62,7 +62,7 @@ working with html tonight
     <p> Soon, I will write <span class="tooltip"> html </span> with everyone</p>
     <h1> <strong>I</strong> am the best</h1>
     <h2> <b>I</b> am the best</h2>
-    <h1> Programming log 12/18 10:14pm
+    <h1> Programming log 12/18 10:14pm </h1>
     <a href="http://www.reddit.com" target="_blank"> Website where I go to</a>
 
     <h1> Programming log 12/20 11:08pm</h1>
