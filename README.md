@@ -68,7 +68,8 @@ working with html tonight
     <h1> Programming log 12/20 11:08pm
     <h2> Gonna start making my own google page tomorrow.</h2>
 
-
+    <h1> Programming log 12/30 10:50pm
+    <h2> Been busy so I haven't been programming much lately</h2>
 </html>
 
 <head>
